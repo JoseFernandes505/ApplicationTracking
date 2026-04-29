@@ -1,0 +1,70 @@
+     Job Tracking ID : 85347-368237
+    Job Level : Mid Career (2+ years)
+    Level of Education : BA/BS
+    Job Type : Full-Time/Regular
+    Date Updated : 04/14/2026
+    Starting Date : 04/27/2026
+    Travel Requirement : Domestic
+    Compensation :
+    Capabilities : Space
+    Years Of Experience : 003
+
+Job Description
+
+Readiness Delivered. Kratos engineers and deploys technology and systems that move national security forward, with the cost, speed, and reliability that make readiness certain. We are a trusted partner—driven by doing the right thing and achieving maximum success for our customers, our partners and ourselves. Kratos has an exciting opportunity for a Software Engineer I or II. The Software Engineer leverages expertise in Software Engineering principles, real-time programming, control system theory, and system integration methodologies to define, design, develop, test, and manage the complexities of real-time control software for mechanical, fluid, electrical, and safety systems.
+
+    Responsible for software requirements definition, development, communications (internal and external), and testing
+    Mentors and develops other engineers
+    Conducts requirements analysis to elicit, document, and manage the functional, performance, timing, safety, and non-functional requirements of real-time control software for fluid, electrical, and safety systems, ensuring robust interaction and adherence to relevant software development and safety standards (e.g., IEC 61508 and other applicable industry standards)
+    Develops and maintains detailed software design specifications, well-structured source code, and comprehensive technical documentation
+    Applies software modeling techniques (e.g., UML, state diagrams), simulation tools, and rigorous testing methodologies to analyze, verify, and optimize the structure, behavior, performance, and reliability of control software
+    Performs functional analysis to decompose high-level system control requirements into detailed software functions, modules, and tasks, allocating them to specific software components and defining clear interfaces with hardware (sensors, actuators, PLCs) for fluid, electrical, and safety control
+    Identifies and assesses potential software-related risks associated with development, integration, deployment, and operation—particularly concerning timing constraints, resource utilization, system stability, fault tolerance, and safety integrity for fluid, electrical, and safety control systems.
+    Contributes to the integration aspects of real-time control software, including defining, developing, and managing software interfaces with physical hardware (sensors, actuators, I/O modules), other embedded software modules, communication networks, and Human-Machine Interface (HMI) systems
+    Develops and executes software verification and validation plans, defining the strategy and scope (including unit tests, integration tests, system tests, and regression tests) for ensuring the developed control software meets all specified functional, performance, and safety requirements, potentially utilizing Hardware-in-the-Loop (HIL) simulation and supporting system commissioning activities
+
+Experience and Skills
+
+    Follows established software development procedures and adheres to relevant industry standards (e.g., IEC 61508 for functional safety, MISRA C/C++, or other applicable coding standards), and best practices for real-time software
+    Proficient with requirements analysis principles and methodologies as applied to real-time embedded software, including functional, performance, timing, reliability, and safety critical aspects for control systems
+    Experienced with real-time software design and development lifecycles, algorithm implementation, control logic programming (e.g., C, C++, PLC languages if applicable), data structures, and comprehensive software documentation
+    Knowledge of risk management processes related to software development, system integration, and operational reliability, particularly concerning timing constraints, fault tolerance, resource utilization, and safety integrity in control applications for fluid, electrical, and safety systems.
+    Strong computer skills, including proficiency with standard office software, high proficiency in programming languages such as C and/or C++ for real-time embedded systems, experience with version control systems (e.g., Git), and familiarity with development/debugging tools and environments for embedded control systems
+    BS degree in Software Engineering, Computer Engineering, Electrical Engineering, Computer Science, or a relevant technical field with significant software development experience focused on control systems
+    Minimum 3-5 years of experience in real-time software development for industrial control systems, with demonstrable experience in designing, developing, testing, and deploying software for the operational control of fluid systems, electrical systems, and/or safety-critical applications
+
+Preferred Skills/Experience
+
+    Proficiency with Hardware-in-the-Loop (HIL) simulation platforms and methodologies for testing and validating control software
+    In-depth knowledge and practical experience with industrial communication protocols such as DDS, OPC UA, or MQTT, including protocol analysis and troubleshooting
+    Knowledge of cybersecurity principles and best practices for Industrial Control Systems (ICS) and SCADA environments (e.g., IEC 62443)
+    Experience with any combination of: Git, Jira, and Jama requirements management software
+    Knowledge and/or experience with relevant quality management systems (e.g., ISO 9001) and CMMC
+
+#LI-Onsite
+
+Competitive salary based on experience and education
+
+Kratos is valued for our ability to design and deliver leading edge, resilient solutions for aerospace communication, control, awareness and mission success across a continuum of offerings—from commercial to tailored custom solutions and integrated programs. Customers trust us to stay relevant and know we are in it for the long-haul. We bring both the capability and confidence that our customers value and depend on. And we always deliver.
+
+This posting will close within 90 days from the Posting Date.
+Job Benefits
+
+    Medical, Dental & Vision Insurance Coverage
+    Life/ADD & Short/Long Term Disability Insurance
+    401(k) Savings Plan
+    Employee Stock Purchase Plan (ESPP)
+    Paid Time-Off (PTO)
+    Holidays
+    Education Reimbursement
+
+Kratos Defense is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected category under applicable federal, state, and local laws.
+
+Disability Accessibility Accommodation
+If you require an accommodation to navigate or apply to our careers site, please send your request to HRAccessibility@kratosdefense.com or call 858-964-2916. Any inquires not related to requesting an accommodation will be discarded.
+
+Pay Transparency
+The company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+
+Job Applicant Privacy Notice
+For applicants in the EU and California residents, please review our privacy notice.

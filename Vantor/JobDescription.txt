@@ -1,0 +1,98 @@
+Software Engineer
+Apply
+
+locations
+    Colorado Springs, CO
+
+time type
+    Full time
+
+posted on
+    Posted 10 Days Ago
+
+job requisition id
+    R23769
+
+Vantor is forging the new frontier of spatial intelligence, helping decision makers and operators navigate what’s happening now and shape what’s coming next.  Vantor is a place for problem solvers, changemakers, and go-getters—where people are working together to help our customers see the world differently, and in doing so, be seen differently. Come be part of a mission, not just a job, where you can: Shape your own future, build the next big thing, and change the world.
+
+To be eligible for this position, you must be a U.S. Citizen. This position requires an active U.S. Government security clearance, applicants who do not currently hold the required clearance will not be eligible for consideration. Employment for cleared roles is contingent upon verification of clearance 
+status.
+
+Export Control/ITAR: Certain roles may be subject to U.S. export control laws, requiring U.S. person status as defined by 8 U.S.C. 1324b(a)(3).
+
+Please review the job details below.
+
+Vantor is seeking a Software Engineer to join our project team developing application software.
+
+LOCATION: Colorado Springs - On Site
+
+Benefits:
+
+    Work-life balance to include flexible working opportunities and generous time off.
+
+    Family-first benefits like adoption reimbursement, pet insurance and mental health resources.
+
+    Educational perks such as student loan repayment, paid certifications and tuition reimbursement.
+
+    Career growth opportunities including an internal mobility program and leadership training and development.
+
+    Diversified healthcare and investment options including multiple medical plans, a stock purchase program and 401(k).
+
+Required Qualifications:
+
+    Must be U.S. Citizen and eligible for SECRET security clearance
+
+    BS in Computer Science or related discipline. 5 years of relevant experience in lieu of degree.
+
+    C++ programming experience.
+
+    Experience with Object Oriented software development theory and associated methodologies
+
+    Good understanding of coding methods and best practices
+
+Responsibilities:
+
+    Participate in the requirements analysis and design for software applications or sub-components.
+
+    Code or maintain software applications or sub-components from specifications. 
+
+    Follow established software development process. 
+
+    Create appropriate process artifacts including: requirements documentation, design documentation, and test plans. 
+
+    Test applications as identified in the development methodology, and create necessary documentation.
+
+Desired Qualifications:
+
+    2+ years of professional experience
+
+    Excellent Math and Physics skills
+
+    Ability to take direction from senior team members
+
+    Ability to work both independently and in a team environment
+
+    Effective oral and written communication skills to include active listening
+
+#cjpost
+
+#LI-CJ1
+
+LI-Onsite
+
+Pay Transparency: In support of pay transparency at Vantor, we disclose salary ranges on all U.S. job postings.  The successful candidate’s starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions. Candidates with the minimum necessary experience, qualifications, knowledge, and skillsets for the position should not expect to receive the upper end of the pay range.
+
+● The base pay for this position within Colorado is: $82,000.00 - $136,000.00 annually.
+ 
+
+For all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range. 
+
+Benefits: Vantor offers a competitive total rewards package that goes beyond the standard, including a robust 401(k) with company match, mental health resources, and unique perks like student loan repayment assistance, adoption reimbursement and pet insurance to support all aspects of your life. You can find more information on our benefits at: https://www.Vantor.com/careers
+
+The application window is three days from the date the job is posted and will remain posted until a qualified candidate has been identified for hire.  If the job is reposted regardless of reason, it will remain posted three days from the date the job is reposted and will remain reposted until a qualified candidate has been identified for hire. 
+
+The date of posting can be found on Vantor's Career page at the top of each job posting.
+
+To apply, submit your application via Vantor's Career page.
+
+EEO Policy: Vantor is an equal opportunity employer committed to an inclusive workplace. We believe in fostering an environment where all team members feel respected, valued, and encouraged to share their ideas. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability, protected veteran status, age, or any other characteristic protected by law.
